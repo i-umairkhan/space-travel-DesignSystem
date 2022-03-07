@@ -1,2 +1,2 @@
 # space-travel-website
-A space traveling website concept from front end mentor using HTML and CSS.
+A space traveling website design system concept from front end mentor using HTML and CSS.
